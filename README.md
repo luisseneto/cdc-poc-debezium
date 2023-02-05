@@ -6,7 +6,7 @@
 
 Below we have the architecture of this small project.
 
-![alt text](/images/architecture.png)
+![alt text](/images/architecture-v2.png)
 
 ### What is Change Data Capture (CDC)  
 Change Data Capture (CDC) refers to the process of identifying and 
